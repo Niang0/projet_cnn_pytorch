@@ -185,6 +185,8 @@ Métriques loggées à chaque epoch : `train_loss`, `val_loss`, `train_accuracy`
 - La seed est fixée au début de `main.py` (random, numpy, torch)
 - Les labels doivent être `torch.long` pour `CrossEntropyLoss`
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niang0/projet_cnn_pytorch/blob/main/projet_cnn.ipynb)
+
 ---
 
 # Livrables
