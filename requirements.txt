@@ -1,0 +1,7 @@
+torch>=2.0
+torchvision
+wandb
+scikit-learn
+matplotlib
+tqdm
+Pillow
